@@ -1,0 +1,4 @@
+const BINARY_OPERATOR_TYPE = 'binary'
+const UNARY_OPERATOR_TYPE = 'unary'
+
+export { BINARY_OPERATOR_TYPE, UNARY_OPERATOR_TYPE }
